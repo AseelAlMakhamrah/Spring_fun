@@ -1,0 +1,27 @@
+form{
+    margin:auto;
+    text-align: center;
+    width: 300px;
+}
+h3{
+    font: 100 20pt "Helvetica Neue", sans-serif;
+}
+p{
+    text-align:left;
+    margin-top: 10px;
+    font: 100 10pt "Helvetica Neue", sans-serif;
+}
+input[type=text]{
+    font: 100 10pt "Helvetica Neue", sans-serif;
+}
+button{
+    font: 100 10pt "Helvetica Neue", sans-serif;
+    padding: 5px 10px 5px 10px;
+}
+select{
+    font: 100 10pt "Helvetica Neue", sans-serif;
+}
+textarea{
+    font: 100 10pt "Helvetica Neue", sans-serif;
+}
+

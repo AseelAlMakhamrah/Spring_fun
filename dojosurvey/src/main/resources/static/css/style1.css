@@ -1,0 +1,17 @@
+h3{
+    font: 100 20pt "Helvetica Neue", sans-serif;
+    margin: auto;
+    text-align: center;
+}
+a{
+    font: 100 7pt "Helvetica Neue", sans-serif;
+}
+p{
+    font: 100 10pt "Helvetica Neue", sans-serif;
+    text-align: left;
+}
+.container{
+    margin: auto;
+    text-align: center;
+    width: 400px;
+}
